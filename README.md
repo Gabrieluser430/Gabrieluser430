@@ -1,10 +1,10 @@
 ### Hi, I'm Gabriel Barbieri
 
-![datsfilipe](https://komarev.com/ghpvc/?username=Gabrieluser430&color=22272e)
+![Gabrieluser430](https://komarev.com/ghpvc/?username=Gabrieluser430&color=22272e)
 
-<img align="right" height="170em" src="https://github-readme-stats.vercel.app/api?username=Gabrieluser430&show_icons=true&border_radius=5&theme=github_dark_dimmed" alt="datsfilipe's stats"/>
+<img align="right" height="170em" src="https://github-readme-stats.vercel.app/api?username=Gabrieluser430&show_icons=true&border_radius=5&theme=github_dark_dimmed" alt="Gabrieluser430 stats"/>
 
-- :mailbox_with_mail: Reach me at <a href="mailto:contato@datsfilipe.dev" target="_blank">gabrielbarbieri430@gmail.com 
+- :mailbox_with_mail: Reach me at <a href="mailto:gabrielbarbieri430@gmail.com" target="_blank">gabrielbarbieri430@gmail.com 
 - :briefcase: I have been making projects with **Typescript, NextJs and Tailwind** 
 - :books: I'm currently learning **NodeJS and Firebase**
 
