@@ -6,7 +6,7 @@
 
 - :mailbox_with_mail: Reach me at <a href="mailto:gabrielbarbieri430@gmail.com" target="_blank">gabrielbarbieri430@gmail.com 
 - :briefcase: I have been making projects with **Typescript, NextJs and Tailwind** 
-- :books: I'm currently learning **NodeJS and Ruby**
+- :books: I'm currently learning **NodeJS and C**
 
 ### What I Use :computer:
 
